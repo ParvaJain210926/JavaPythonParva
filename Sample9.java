@@ -52,7 +52,8 @@ public class Sample9 {
 		
 		
 		// system will surrender will not execute if no try catch is writtern in code that what exception handling means
-		
+		finally{
 		System.out.println("This will also get executed");
+		}
 	}
 }
